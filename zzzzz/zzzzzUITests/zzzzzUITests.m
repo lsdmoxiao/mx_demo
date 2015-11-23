@@ -1,6 +1,6 @@
 //
-//  MX_demo_UITests.m
-//  MX_demo_UITests
+//  zzzzzUITests.m
+//  zzzzzUITests
 //
 //  Created by qianfeng on 15/11/23.
 //  Copyright © 2015年 mx_lsd. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface MX_demo_UITests : XCTestCase
+@interface zzzzzUITests : XCTestCase
 
 @end
 
-@implementation MX_demo_UITests
+@implementation zzzzzUITests
 
 - (void)setUp {
     [super setUp];
